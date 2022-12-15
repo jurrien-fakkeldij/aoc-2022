@@ -20,7 +20,7 @@ func (s *Space) toString() string {
 
 func Day14() {
 	fmt.Println("============== Day14 ==============")
-	//Day14Part1()
+	Day14Part1()
 	Day14Part2()
 }
 
